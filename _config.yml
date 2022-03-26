@@ -103,5 +103,5 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/zengdalin/zengdalin.github.io.git
+  repo: git@github.com:zengdalin/zengdalin.github.io.git
   branch: main
