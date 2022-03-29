@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-27T03:05:34.832Z</updated>
+  <updated>2022-03-29T14:09:37.431Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>盈亏比</title>
+    <link href="http://example.com/2022/03/29/ying-yu-bi/"/>
+    <id>http://example.com/2022/03/29/ying-yu-bi/</id>
+    <published>2022-03-29T13:53:03.000Z</published>
+    <updated>2022-03-29T14:09:37.431Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;盈亏比是啥，盈亏比=(止盈价-买入价)/(买入价-止损价)。&lt;br&gt;如果我们随机买入(胜率是50%)，而且盈亏比小于1，我们一定会亏光&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="交易概念" scheme="http://example.com/tags/%E4%BA%A4%E6%98%93%E6%A6%82%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>盈亏比</title>
+      <link href="/2022/03/29/ying-yu-bi/"/>
+      <url>/2022/03/29/ying-yu-bi/</url>
+      
+        <content type="html"><![CDATA[<p>盈亏比是啥，盈亏比=(止盈价-买入价)/(买入价-止损价)。<br>如果我们随机买入(胜率是50%)，而且盈亏比小于1，我们一定会亏光</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 交易概念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/03/27/hello-world/"/>
       <url>/2022/03/27/hello-world/</url>
